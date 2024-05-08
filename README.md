@@ -126,11 +126,11 @@ Faça o download do recurso denominado `VisualCppRedist_AIO_x86_x64_82.zip`, ext
    - No menu do bloco de notas, selecione `Arquivo` e depois `Salvar Como`.
    - Navegue até o diretório onde o WinRAR está instalado normalmente em `C:\Program Files\WinRAR`.
    - Altere o tipo de arquivo para `Todos os Arquivos` para `(*.*)`.
-   - Salve o arquivo com o nome: rarreg.key
+   - Salve o arquivo com o nome:
 
-   ```bash
-   rarreg.key
-   ```
+```bash
+rarreg.key
+```
 
 Com isso, os anúncios não serão mais exibidos ao utilizar o WinRAR.
 
