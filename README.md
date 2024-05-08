@@ -148,5 +148,9 @@ Executar o PowerShell como Administrador:
    ```
    - Esse comando é capaz de detectar e localizar os setores defeituosos no disco rígido de destino e tentar recuperar as informações legíveis dos setores defeituosos.
 
-5. Comando: `DISM /Online /Cleanup-image /Restorehealth`
+5. Comando:
+   
+   ```bash
+   DISM /Online /Cleanup-image /Restorehealth
+   ```
    - Esse comando é utilizado no Windows para verificar e corrigir a corrupção de arquivos de sistema. O DISM (Deployment Image Servicing and Management) é uma ferramenta de linha de comando que verifica a integridade da imagem do sistema operacional e tenta restaurá-la para um estado saudável. O parâmetro `/Cleanup-image /Restorehealth` especifica que o DISM deve tentar corrigir a imagem de sistema atualmente em uso.
