@@ -1,0 +1,24 @@
+Instaldor office e registro
+irm https://massgrave.dev/get | iex
+
+Atualiza
+winget update --all
+winget upgrade --all
+
+
+Procura
+winget search [nome do programa]
+
+Instalar
+winget install [nome do programa]
+
+Ativação Windows e Office
+Entrar no PowerShell como administrador
+
+irm https://massgrave.dev/get | iex
+
+-------------------------------------------
+winget install localsend
+
+winget upgrade --all
+

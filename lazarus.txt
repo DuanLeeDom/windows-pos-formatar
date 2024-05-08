@@ -1,0 +1,27 @@
+
+  _                                  
+ | |    __ _ ______ _ _ __ _   _ ___ 
+ | |   / _` |_  / _` | '__| | | / __|
+ | |__| (_| |/ / (_| | |  | |_| \__ \
+ |_____\__,_/___\__,_|_|   \__,_|___/
+--------------------------------------
+
+- Instale todos os Visual C++: https://github.com/abbodi1406/vcredist/releases
+- MySQL Product version 5.5.62: https://downloads.mysql.com/archives/community/
+- MySQL GUI Tools versão mais atual: https://downloads.mysql.com/archives/gui/
+  - MySQL Product version 5.5.62
+    - Porta: 3308
+    - Senha: 00000
+      (Use a mesma senha acima para qualquer nova senha que criar)
+
+- Wampserver versão mais atual: https://www.wampserver.com/
+
+- Lazarus: https://www.lazarus-ide.org/index.php?page=downloads (32 e 64 Bits) Download direto
+
+- libmysql.dll: https://www.dll-files.com/libmysql.dll.html
+
+- Vai no Lazarus abre ele e abaixe esses pacotes no [Gerenciador de Pacotes Online]
+  -jvcllaz
+  -Rx
+  -zeosdbo
+  -fpspreadsheet

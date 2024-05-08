@@ -1,0 +1,182 @@
+ __        ___           _                   
+ \ \      / (_)_ __   __| | _____      _____ 
+  \ \ /\ / /| | '_ \ / _` |/ _ \ \ /\ / / __|
+   \ V  V / | | | | | (_| | (_) \ V  V /\__ \
+    \_/\_/  |_|_| |_|\__,_|\___/ \_/\_/ |___/
+-------------------------------------------------
+
+===============================
+Configuração Inicial do Windows
+===============================
+
+Se o computador já está formatado,
+siga as etapas abaixo para deixar
+otimizado o Windows:
+
+==================================
+ETAPA 1: Ativação Windows e Office
+==================================
+1. Entrar no PowerShell como administrador:
+
+   PowerShell as Administrator:
+   irm https://massgrave.dev/get | iex
+
+   1- [1] WHID | Windows | Permanent
+   2- depois de instalar apertar enter ou qualquer tecla
+   4- [2] Ohook | Office | Permanent
+   5- [3] Dowload Office
+   6- baixar a versão Microsoft 365 / Sub | Offline x86-x64 | Site: https://gravesoft.dev/download_windows_office/office_c2r_links/#portuguese-brazil-pt-br
+   7- baixar normalmente o programa.
+   8- voltando nas opções normais da tela Ohook Ativation
+   9- [1] Install Ohook Office Activation
+   10- depois de instalar apertar enter ou qualquer tecla
+
+=======================================
+ETAPA 2: Antes de baixar qualquer coisa
+=======================================
+1. Instale todos os Visual C++:
+   Download: https://github.com/abbodi1406/vcredist/releases
+
+================================
+ETAPA 3: App Installer Atualizar
+================================
+1. Atualize o App Installer:
+   winget update --all
+   winget upgrade --all
+
+2. Procurar um programa:
+   winget search [nome do programa]
+
+3. Instalar um programa:
+   winget install [nome do programa]
+
+
+  _____                                               
+ |  __ \                                              
+ | |__) | __ ___   __ _ _ __ __ _ _ __ ___   __ _ ___ 
+ |  ___/ '__/ _ \ / _` | '__/ _` | '_ ` _ \ / _` / __|
+ | |   | | | (_) | (_| | | | (_| | | | | | | (_| \__ \
+ |_|   |_|  \___/ \__, |_|  \__,_|_| |_| |_|\__,_|___/
+                   __/ |                              
+                  |___/                               
+-----------------------------------------------------
+
+====================
+PROGRAMAS ESSENCIAIS
+====================
+
+Programas:
+1. AnyDesk - Acesso Remoto
+   - https://anydesk.com/pt
+
+2. RustDesk - Acesso Remoto Alternativo
+   - https://rustdesk.com/
+
+3. VLC - Reprodutor Multimídia
+   - https://www.videolan.org/vlc/index.html
+
+4. Audacity - Editor de Áudio
+   - https://www.audacityteam.org/
+
+5. OBS Studio - Gravador e Transmissor de Vídeo
+   - https://obsproject.com/
+
+6. FontBase - Gerenciador de Fontes
+   - https://fontba.se/
+
+7. DaVinci Resolve - Editor de Vídeo Profissional
+   - https://www.blackmagicdesign.com/products/davinciresolve/
+
+8. Discord - Plataforma de Comunicação para Gamers
+   - https://discord.com/
+
+9. Google Chrome - Navegador Web
+   - https://www.google.com/intl/pt-BR/chrome/
+
+10. LibreWolf - Navegador Web Alternativo
+    - https://librewolf-community.gitlab.io/
+
+11. VirtualBox - Plataforma de Virtualização
+    - https://www.virtualbox.org/
+
+12. KeePassXC - Gerenciador de Senhas
+    - https://keepassxc.org/
+
+13. GIMP - Editor de Imagens
+    - https://www.gimp.org/
+
+Jogos:
+1. Steam - Plataforma de Distribuição Digital
+   - https://store.steampowered.com/about/
+
+2. Epic Games - Loja de Jogos
+   - https://www.epicgames.com/store/en-US/
+
+3. GOG GALAXY - Loja de Jogos Sem DRM
+   - https://www.gog.com/galaxy
+
+4. Ubisoft Connect - Loja e Plataforma de Jogos da Ubisoft
+   - https://www.ubisoft.com/pt-br/game/ubisoft-connect
+
+5. EA Origin - Plataforma de Jogos da Electronic Arts
+   - https://www.origin.com/
+
+6. Rockstar Games Launcher - Plataforma de Jogos da Rockstar Games
+   - https://www.rockstargames.com/rockstargameslauncher
+
+     _       _ _      _                   _     
+    / \   __| (_) ___(_) ___  _ __   __ _(_)___ 
+   / _ \ / _` | |/ __| |/ _ \| '_ \ / _` | / __|
+  / ___ \ (_| | | (__| | (_) | | | | (_| | \__ \
+ /_/   \_\__,_|_|\___|_|\___/|_| |_|\__,_|_|___/
+-------------------------------------------------
+
+=========================================
+BAIXAR O WINRAR E TIRAR AQUELA PROPAGANDA
+=========================================
+
+Passos para Remover Anúncios do WinRAR
+
+1. Baixar o WinRAR:
+   - Visite o site oficial em: https://www.win-rar.com/
+   - Faça o download do WinRAR.
+
+2. Criar o Arquivo de Registro:
+   - Após o download, crie um novo arquivo de texto (.TXT) no seu computador.
+
+3. Inserir os Dados de Registro:
+   - Abra o arquivo de texto recém-criado e insira o seguinte texto:
+     
+     RAR registration data
+     SiM
+     Local Site License
+     UID=ca5575bd41c33ec5a2de
+     6412212250a2de7c818d537f99bcf0218861216f4ce0738e2ef7ad
+     8bc2514534357f5541ed60694c88f20734f7fa6ad968865654a57b
+     0f0edf295d607ce6fa6d6b3667401b413bdcbccca3152c8ab6abc5
+     931818a35674a26f065261f8bce32dfbce601d1aa079a3c54f79c7
+     adeacb886214457e000e50d6ff5329a2f516ebba72708a35f704db
+     3d30b1633de64c1bdc0c5c2b54710967dde4c9aab721b69460185e
+     a12e2906a44bc32601e8ef0028d453a1d8b40dd23b562696892555
+
+4. Salvar o Arquivo de Registro:
+   - No menu do bloco de notas, selecione "Arquivo" e depois "Salvar Como".
+   - Navegue até o diretório onde o WinRAR está instalado (normalmente em C:\Program Files\WinRAR).
+   - Altere o tipo de arquivo para "Todos os Arquivos" (*.*).
+   - Salve o arquivo com o nome: rarreg.key
+
+Com isso, os anúncios não serão mais exibidos ao utilizar o WinRAR.
+
+============================================
+Como Reparar o Windows com Apenas 3 Comandos
+============================================
+Executar o PowerShell como Adiministrador
+
+1. Comando: chkdsk /f
+este comando é capaz de encontrar e corrigir qualquer erro no disco rígido.
+
+2. Comando: chkdsk /r
+esse comando é capaz de detectar e localizar os setores defeituosos no disco rígido de destino e tentar recuperar as informações legíveis dos setores defeituosos.
+
+3. Comando: DISM /Online /Cleanup-image /Restorehealth
+Esse comando é utilizado no Windows para verificar e corrigir a corrupção de arquivos de sistema. O DISM (Deployment Image Servicing and Management) é uma ferramenta de linha de comando que verifica a integridade da imagem do sistema operacional e tenta restaurá-la para um estado saudável. O parâmetro "/Cleanup-image /Restorehealth" especifica que o DISM deve tentar corrigir a imagem de sistema atualmente em uso.
