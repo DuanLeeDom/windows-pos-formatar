@@ -128,6 +128,10 @@ Faça o download do recurso denominado `VisualCppRedist_AIO_x86_x64_82.zip`, ext
    - Altere o tipo de arquivo para `Todos os Arquivos` para `(*.*)`.
    - Salve o arquivo com o nome: rarreg.key
 
+   ```bash
+   rarreg.key
+   ```
+
 Com isso, os anúncios não serão mais exibidos ao utilizar o WinRAR.
 
 # Como Reparar o Windows com Apenas 3 Comandos
